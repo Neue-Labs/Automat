@@ -10,6 +10,9 @@ Use this API to develop your own iOS apps connecting via BlueTooth to AUTOMAT ha
 * [Apple developer account](http://developer.apple.com)
 * iOS device running iOS 8.0 or higher
 
+Important! Since the AUTOMAT hardware communicates using Bluetooth (BLE), it's not possible to test an app using the API in 
+the simulator, since the simulator doesn't support Bluetooth.
+
 ## Installation
 
 Simply copy the NeueLabsAutomat.framework to your project.
