@@ -1,0 +1,6 @@
+framework module NeueLabsAutomat {
+  umbrella header "NeueLabsAutomat.h"
+
+  export *
+  module * { export * }
+}
