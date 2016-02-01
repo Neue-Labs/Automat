@@ -1,8 +1,8 @@
-# AUTOMAT iOS API by Neue labs
+# AUTOMAT iOS SDK by Neue labs
 
 Neue labs presents AUTOMAT, a small and flexible platform for building personal IoT. AUTOMAT is built to boost creativity and create real products for professional creatives in agencies, studios, innovation & R&D departments. Use the same hardware and software in both prototyping and industrialisation to cut costs dramatically and shorten time to market. Neue labs AUTOMAT quite simply makes great ideas happen.
 
-Use this API to develop your own iOS apps connecting via BlueTooth to AUTOMAT hardware.
+Use this SDK to develop your own iOS apps connecting via BlueTooth to AUTOMAT hardware.
 
 ## Requirements
 
@@ -10,7 +10,7 @@ Use this API to develop your own iOS apps connecting via BlueTooth to AUTOMAT ha
 * [Apple developer account](http://developer.apple.com)
 * iOS device running iOS 8.0 or higher
 
-Important! Since the AUTOMAT hardware communicates using Bluetooth (BLE), it's not possible to test an app using the API in 
+Important! Since the AUTOMAT hardware communicates using Bluetooth (BLE), it's not possible to test an app using the SDK in 
 the simulator, since the simulator doesn't support Bluetooth.
 
 ## Installation
