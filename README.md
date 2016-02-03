@@ -55,6 +55,8 @@ the NLAAutomatDevice subclass handling the connected device as shown below. From
                                                   usingBlock:^(NSNotification *note){
                                                      
     NSLog(@"Did connect Automat device!");
+    
+    NLAConnectionManager *connectionManager = [NLAConnectionManager sharedConnectionManager];
                                                       
     // Through the NLABaseboard object you access all the functionality
     // of the connected baseboard.
